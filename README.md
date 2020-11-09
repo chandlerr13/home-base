@@ -1,24 +1,6 @@
-# home-base-vue
+# Home Base
+### Project Overview
 
-## Project setup
-```
-npm install
-```
+Simple website built with Vue and the Vue CLI to practice basic web-dev principles, including styling best practices, site responsiveness, and data binding and manipulation.  
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+URL: app.chandlerrogers.me
